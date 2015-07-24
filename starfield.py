@@ -19,7 +19,7 @@ class Starfield():
                     self.populate()
 
     def populate(self):
-        numstars = int((self.screen.height * self.screen.width) / 100)
+        numstars = int((self.screen.height * self.screen.width) / 10)
         for i in range(numstars):
             self.makestar()
             sleep(1)
