@@ -1,4 +1,4 @@
-#Stars!
+# Stars!
 
 This draws stars, in your terminal. It doesn't do anything else.
 
